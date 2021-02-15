@@ -1,7 +1,7 @@
 public class CgClass {
-    public void cheer() {
-        String igaziKiraly = "devops csavo";
-        String arulo = "igazi devopsos csalo";
-        System.out.println("Team BG, de nem: " + arulo + " aki " + igaziKiraly);
+    public void cheer(String igaziKiraly, String message) {
+        igaziKiraly = "devops csavo";
+        message = "a legnagyobb majer"
+        System.out.println(igaziKiraly + message);
     }
 }

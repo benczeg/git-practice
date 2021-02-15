@@ -1,7 +1,7 @@
 public class BgClass {
 
-  public void count() {
-    int parameter = 42;
-    System.out.println("Counting the countless: " + parameter);
+
+  public void count(int num1, int num2) {
+    System.out.println(num1 + num2);
   }
 }
