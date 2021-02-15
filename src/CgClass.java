@@ -1,5 +1,6 @@
 public class CgClass {
-    public void cheer() {
-        System.out.println("Team BG");
+    public void cheer(String arulo) {
+        arulo = "devops csavo";
+        System.out.println("Team BG " + arulo);
     }
 }
