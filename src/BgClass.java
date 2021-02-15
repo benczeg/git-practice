@@ -1,6 +1,6 @@
 public class BgClass {
 
-  public void count() {
-    System.out.println("7+2");
+  public void count(int num1, int num2) {
+    System.out.println(num1 + num2);
   }
 }
