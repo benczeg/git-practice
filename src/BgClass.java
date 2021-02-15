@@ -1,6 +1,6 @@
 public class BgClass {
 
   public void count() {
-    System.out.println("your age");
+    System.out.println("8");
   }
 }
